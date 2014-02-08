@@ -91,7 +91,7 @@ References:
 //     timerscale 8-bit = 256
 // es. 61 = (16000000 / 1024) / 256
 #define MPU6050_TIMER0INIT TCCR0B |=(1<<CS02)|(1<<CS00); \
-		TIMSK0 |=(1<<TOIE0);
+ 		TIMSK0 |=(1<<TOIE0);
 #define mpu6050_mahonysampleFreq 61.0f // sample frequency in Hz
 #define mpu6050_mahonytwoKpDef (2.0f * 0.5f) // 2 * proportional gain
 #define mpu6050_mahonytwoKiDef (2.0f * 0.1f) // 2 * integral gain

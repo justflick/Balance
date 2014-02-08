@@ -4,12 +4,12 @@
 #include <avr/interrupt.h>
 #include <avr/pgmspace.h>
 #include <util/delay.h>
-#include <math.h>  //include libm
+#include <math.h>
 
-#include "mpu6050/mpu6050.h"
+#include "hardware/mpu6050.h"
 
 #define UART_BAUD_RATE 57600
-#include "uart/uart.h"
+#include "hardware/uart.h"
 
 int main(void) {
 

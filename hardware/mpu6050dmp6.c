@@ -21,7 +21,7 @@ Please refer to LICENSE file for licensing information.
 #if MPU6050_GETATTITUDE == 2
 
 #include <avr/io.h>
-#include <avr/pgmspace.h>
+//#include <avr/pgmspace.h>
 #include <avr/interrupt.h>
 #include <util/delay.h>
 #include <math.h>  //include libm
