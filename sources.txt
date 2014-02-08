@@ -8,4 +8,14 @@
  *http://www.aasimon.org/public/marvin.pdf
  *
  * http://davidegironi.blogspot.com/2013/02/avr-atmega-mpu6050-gyroscope-and.html
+ *
+ * http://asaphix.tk/
+ *
+ * http://letsmakerobots.com/node/38692
+ *
+ * http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/
+ *
+ * https://web.archive.org/web/20120724035950/http://www.x-io.co.uk/node/8
+ *
+ * https://code.google.com/p/labview-quaternion-ahrs/
  */
