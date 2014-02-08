@@ -3,4 +3,9 @@
  *
  *http://robotics.ee.uwa.edu.au/theses/2003-Balance-Ooi.pdf
  *
+ *http://forum.arduino.cc/index.php?topic=8871.0
+ *
+ *http://www.aasimon.org/public/marvin.pdf
+ *
+ * http://davidegironi.blogspot.com/2013/02/avr-atmega-mpu6050-gyroscope-and.html
  */
